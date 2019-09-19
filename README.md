@@ -2,7 +2,9 @@
 The project was done using python3.6
 
 ## Description
-An application that will make your time count,adding pitches as well as reviewing other peoples pitches.   
+An application that will make your time count,adding pitches as well as reviewing other peoples pitches.  
+
+A live link of my app https://rocky-ravine-33665.herokuapp.com/
 
 
 ## Author
