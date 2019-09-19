@@ -26,6 +26,10 @@ Alex Muliande.
 
 8.As a user you can delete your post.
 
+## Screenshot
+
+<img src="https://github.com/alex-muliande/Pitch/blob/master/Screenshot%20from%202019-09-19%2016-22-48.png" width='1000'>
+
 ## Setup/Installation Requirements
 Python version 3.6
 Flask
